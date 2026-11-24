@@ -1,6 +1,6 @@
 {
-  "versionCode": 10,
-  "versionName": "1.7",
-  "changelog": "修复9点分界bug（21:00-次日9:00走夜间策略：运行满20分钟后每5分钟一题；9:00-21:00满40分钟后每20分钟一题）；修复答完题/超时推迟后闹钟不续排的严重bug（新增RescheduleReceiver）",
+  "versionCode": 11,
+  "versionName": "1.8",
+  "changelog": "修复弹题被系统后台启动拦截的问题：前台服务持有1像素透明悬浮窗获得可见窗口豁免；熄屏时改用全屏意图通知点亮屏幕并拉起答题页；修复隐藏图标按钮崩溃",
   "apkUrl": "https://cdn.jsdelivr.net/gh/vvvvvfelix/quizlock-bank@main/quizlock-debug.apk"
 }
