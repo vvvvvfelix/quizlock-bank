@@ -1,1 +1,6 @@
-{"versionCode":2,"versionName":"1.1","changelog":"改名玩了个题；学期自增长、答案解析、联网题库、APK自更新","apkUrl":"https://cdn.jsdelivr.net/gh/vvvvvfelix/quizlock-bank@main/quizlock-debug.apk"}
+{
+  "versionCode": 8,
+  "versionName": "1.5",
+  "changelog": "去除桌面图标入口与稍后再答按钮；弹题改为连续运行时长策略（9点前连续运行40分钟后每20分钟一题，9点后连续运行20分钟后每5分钟一题）；后台每天自动检查网络更新；题库每日0点自动更新；透明答题界面",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/vvvvvfelix/quizlock-bank@main/quizlock-debug.apk"
+}

@@ -1,1 +1,1021 @@
-{"version":1,"updated":"2026-11-24","count":78,"questions":[{"level":1,"subject":"语文","text":"‘妈’的声母是？","options":["m","n","h","l"],"answer":0,"explanation":"‘妈’读作 mā，声母是 m，韵母是 a。"},{"level":1,"subject":"数学","text":"7 + 5 = ?","options":["11","12","13","14"],"answer":1,"explanation":"7 + 5 = 12。可以用凑十法：7 + 3 = 10，再加剩下的 2，得 12。"},{"level":1,"subject":"语文","text":"‘上’的反义词是？","options":["下","左","右","大"],"answer":0,"explanation":"‘上’表示位置在高处，反义词是‘下’。"},{"level":1,"subject":"道法","text":"绿灯亮时，行人可以怎样？","options":["停下来","通过人行横道","倒车","打电话"],"answer":1,"explanation":"红灯停、绿灯行。绿灯亮时走人行横道过马路。"},{"level":1,"subject":"数学","text":"1 元等于多少角？","options":["5","10","20","100"],"answer":1,"explanation":"人民币换算：1 元 = 10 角，1 角 = 10 分。"},{"level":2,"subject":"数学","text":"16 - 9 = ?","options":["6","7","8","9"],"answer":1,"explanation":"16 - 9 = 7。破十法：16 - 6 = 10，10 - 3 = 7。"},{"level":2,"subject":"语文","text":"‘大’的反义词是？","options":["小","多","高","长"],"answer":0,"explanation":"‘大’与‘小’是一对反义词。"},{"level":2,"subject":"数学","text":"13 - 6 = ?","options":["6","7","8","9"],"answer":1,"explanation":"13 - 6 = 7，因为 7 + 6 = 13。"},{"level":2,"subject":"语文","text":"白天天空中能看到什么？","options":["月亮","太阳","星星","北极光"],"answer":1,"explanation":"白天太阳升起，能看到太阳；月亮和星星一般在夜晚出现。"},{"level":2,"subject":"数学","text":"9 + 8 = ?","options":["16","17","18","19"],"answer":1,"explanation":"9 + 8 = 17。凑十：9 + 1 = 10，再加 7 得 17。"},{"level":3,"subject":"数学","text":"3 × 4 = ?","options":["7","12","16","21"],"answer":1,"explanation":"3 × 4 表示 4 个 3 相加：3+3+3+3 = 12。"},{"level":3,"subject":"语文","text":"‘春眠不觉晓’的下一句是？","options":["处处闻啼鸟","床前明月光","举头望明月","白日依山尽"],"answer":0,"explanation":"出自孟浩然《春晓》：春眠不觉晓，处处闻啼鸟。"},{"level":3,"subject":"科学","text":"水在标准大气压下多少摄氏度沸腾？","options":["50","80","100","120"],"answer":2,"explanation":"标准大气压（101 kPa）下水的沸点是 100 ℃；高山上气压低，沸点会降低。"},{"level":3,"subject":"英语","text":"apple 的中文意思是？","options":["苹果","香蕉","橘子","梨"],"answer":0,"explanation":"apple = 苹果；banana = 香蕉；orange = 橘子；pear = 梨。"},{"level":3,"subject":"数学","text":"5 × 6 = ?","options":["11","24","30","36"],"answer":2,"explanation":"5 × 6 = 30，乘法口诀‘五六三十’。"},{"level":4,"subject":"数学","text":"56 ÷ 7 = ?","options":["6","7","8","9"],"answer":2,"explanation":"56 ÷ 7 = 8，因为 7 × 8 = 56。"},{"level":4,"subject":"语文","text":"‘金’字的部首是？","options":["人","金","土","十"],"answer":1,"explanation":"‘金’是独体字，部首就是‘金’本身。"},{"level":4,"subject":"数学","text":"8 × 8 = ?","options":["16","56","64","72"],"answer":2,"explanation":"8 × 8 = 64，乘法口诀‘八八六十四’。"},{"level":4,"subject":"语文","text":"‘画’字共有几画？","options":["6","7","8","9"],"answer":2,"explanation":"‘画’的笔顺：横、竖、横折、横、竖、撇、竖折、横，共 8 画。"},{"level":4,"subject":"英语","text":"book 的中文意思是？","options":["书","笔","桌子","书包"],"answer":0,"explanation":"book = 书；bag = 书包；pen = 笔。"},{"level":5,"subject":"数学","text":"1000 - 456 = ?","options":["544","546","644","654"],"answer":0,"explanation":"1000 - 456 = 544。验算：544 + 456 = 1000。"},{"level":5,"subject":"语文","text":"‘亡羊补牢’的‘牢’指什么？","options":["羊圈","监狱","房子","绳子"],"answer":0,"explanation":"‘牢’在这里指关羊的圈。成语比喻出了问题后及时补救。"},{"level":5,"subject":"英语","text":"How are you? 的常用回答是？","options":["I'm fine, thank you.","My name is Tom.","It's red.","Yes, I do."],"answer":0,"explanation":"How are you? 问‘你好吗’，常用 I'm fine, thank you. 回答。"},{"level":5,"subject":"科学","text":"彩虹通常有几种颜色？","options":["5","6","7","8"],"answer":2,"explanation":"彩虹有红、橙、黄、绿、蓝、靛、紫七种颜色。"},{"level":5,"subject":"数学","text":"4 × 25 = ?","options":["50","75","100","125"],"answer":2,"explanation":"4 × 25 = 100，这是常用简便运算组合。"},{"level":6,"subject":"数学","text":"钟面上时针走一大格是几小时？","options":["1","5","12","60"],"answer":0,"explanation":"钟面有 12 个大格，时针走一圈 12 小时，所以走一大格是 1 小时。"},{"level":6,"subject":"语文","text":"‘独在异乡为异客’的下一句是？","options":["每逢佳节倍思亲","举头望明月","春江水暖鸭先知","黄河入海流"],"answer":0,"explanation":"出自王维《九月九日忆山东兄弟》：独在异乡为异客，每逢佳节倍思亲。"},{"level":6,"subject":"科学","text":"影子的形成说明光具有什么性质？","options":["光会拐弯","光沿直线传播","光会变色","光有重量"],"answer":1,"explanation":"影子是光沿直线传播时被不透明物体挡住形成的。"},{"level":6,"subject":"数学","text":"360 ÷ 9 = ?","options":["30","40","50","60"],"answer":1,"explanation":"360 ÷ 9 = 40，因为 9 × 40 = 360。"},{"level":6,"subject":"英语","text":"pen 的中文意思是？","options":["钢笔","尺子","橡皮","书本"],"answer":0,"explanation":"pen = 钢笔；ruler = 尺子；eraser = 橡皮。"},{"level":7,"subject":"数学","text":"25 × 4 = ?","options":["50","75","100","125"],"answer":2,"explanation":"25 × 4 = 100，常用简便运算：25 × 4 = 100，125 × 8 = 1000。"},{"level":7,"subject":"语文","text":"‘欲穷千里目’的下一句是？","options":["更上一层楼","一览众山小","黄河入海流","春江水暖鸭先知"],"answer":0,"explanation":"出自王之涣《登鹳雀楼》：欲穷千里目，更上一层楼。"},{"level":7,"subject":"科学","text":"植物光合作用主要吸收哪种气体？","options":["氧气","二氧化碳","氮气","氢气"],"answer":1,"explanation":"光合作用吸收二氧化碳和水，释放氧气，合成有机物。"},{"level":7,"subject":"数学","text":"125 × 8 = ?","options":["500","800","1000","1250"],"answer":2,"explanation":"125 × 8 = 1000，是常用的简便运算组合。"},{"level":7,"subject":"英语","text":"cat 的中文意思是？","options":["狗","猫","鸟","鱼"],"answer":1,"explanation":"cat = 猫；dog = 狗；bird = 鸟；fish = 鱼。"},{"level":8,"subject":"数学","text":"1 千米等于多少米？","options":["100","500","1000","10000"],"answer":2,"explanation":"1 千米（km）= 1000 米（m）。"},{"level":8,"subject":"英语","text":"What's your name? 的回答是？","options":["I'm ten.","My name is Li Hua.","I'm fine.","It's a book."],"answer":1,"explanation":"What's your name? 问名字，回答 My name is... 或 I'm...。"},{"level":8,"subject":"数学","text":"0.5 + 0.3 = ?","options":["0.2","0.8","8","0.08"],"answer":1,"explanation":"小数点对齐相加：0.5 + 0.3 = 0.8。"},{"level":8,"subject":"语文","text":"‘四面楚歌’这个成语与哪位历史人物有关？","options":["项羽","刘邦","曹操","诸葛亮"],"answer":0,"explanation":"楚汉相争时项羽被围垓下，夜闻四面汉军唱楚歌，以为楚地尽失。"},{"level":8,"subject":"科学","text":"一天中气温最高一般出现在什么时候？","options":["日出时","正午 12 点","午后 2 点左右","午夜"],"answer":2,"explanation":"地面吸收热量需要时间，气温最高值通常出现在午后 2 点左右。"},{"level":9,"subject":"数学","text":"1/2 + 1/4 = ?","options":["1/6","2/6","3/4","2/3"],"answer":2,"explanation":"通分：1/2 = 2/4，2/4 + 1/4 = 3/4。分数相加要先通分。"},{"level":9,"subject":"语文","text":"‘扁舟’的‘扁’应读什么？","options":["piān","biǎn","biān","pián"],"answer":0,"explanation":"‘扁舟’指小船，‘扁’在这里读 piān。"},{"level":9,"subject":"英语","text":"I ____ to school every day.","options":["go","goes","going","went"],"answer":0,"explanation":"主语 I 是第一人称，一般现在时用动词原形 go。"},{"level":9,"subject":"数学","text":"3.6 ÷ 0.6 = ?","options":["0.6","6","60","0.06"],"answer":1,"explanation":"被除数和除数同时扩大 10 倍：36 ÷ 6 = 6。"},{"level":9,"subject":"语文","text":"‘上善若水’出自哪部典籍？","options":["论语","道德经","孟子","庄子"],"answer":1,"explanation":"‘上善若水，水善利万物而不争’出自老子《道德经》。"},{"level":10,"subject":"科学","text":"人体最大的器官是？","options":["心脏","肝脏","皮肤","肺"],"answer":2,"explanation":"皮肤覆盖全身，是人体面积最大、重量最重的器官。"},{"level":10,"subject":"数学","text":"0.25 化成分数是？","options":["1/2","1/4","1/5","2/5"],"answer":1,"explanation":"0.25 = 25/100 = 1/4。"},{"level":10,"subject":"道法","text":"未成年人是指未满多少周岁的公民？","options":["16","18","20","21"],"answer":1,"explanation":"《未成年人保护法》规定：未成年人是指未满 18 周岁的公民。"},{"level":10,"subject":"语文","text":"‘草船借箭’出自哪部名著？","options":["西游记","三国演义","水浒传","红楼梦"],"answer":1,"explanation":"草船借箭是《三国演义》中诸葛亮的故事。"},{"level":10,"subject":"数学","text":"2/3 + 1/3 = ?","options":["1/3","2/3","1","3/6"],"answer":2,"explanation":"同分母分数相加，分母不变分子相加：2/3 + 1/3 = 3/3 = 1。"},{"level":11,"subject":"数学","text":"50 的 20% 是多少？","options":["5","10","15","20"],"answer":1,"explanation":"50 × 20% = 50 × 0.2 = 10。"},{"level":11,"subject":"语文","text":"‘但存方寸地，留与子孙耕’主要强调？","options":["珍惜土地","多建房屋","多修道路","节约用水"],"answer":0,"explanation":"这句诗强调保护耕地、珍惜土地资源，留给后代耕种。"},{"level":11,"subject":"英语","text":"There ____ some milk in the glass.","options":["is","are","am","be"],"answer":0,"explanation":"milk 是不可数名词，there be 句型中用 is。"},{"level":11,"subject":"数学","text":"圆的周长公式是？","options":["πr","2πr","πr²","2r"],"answer":1,"explanation":"圆的周长 C = 2πr = πd；πr² 是圆的面积公式。"},{"level":11,"subject":"科学","text":"地球自转一周约需多久？","options":["12 小时","24 小时","30 天","365 天"],"answer":1,"explanation":"地球自转一周约 24 小时，产生昼夜交替；公转一周约 365 天。"},{"level":12,"subject":"数学","text":"三角形的内角和是多少？","options":["90°","180°","270°","360°"],"answer":1,"explanation":"任意三角形的三个内角之和都是 180°。"},{"level":12,"subject":"英语","text":"‘图书馆’的英文是？","options":["school","library","hospital","park"],"answer":1,"explanation":"library = 图书馆；school = 学校；hospital = 医院；park = 公园。"},{"level":12,"subject":"数学","text":"比例尺 1:1000 表示图上 1 cm 相当于实际多少米？","options":["1 米","10 米","100 米","1000 米"],"answer":1,"explanation":"图上 1 cm × 1000 = 1000 cm = 10 米。"},{"level":12,"subject":"语文","text":"‘少壮不努力’的下一句是？","options":["老大徒伤悲","长歌行","黄河入海流","更上一层楼"],"answer":0,"explanation":"出自汉乐府《长歌行》：少壮不努力，老大徒伤悲。"},{"level":12,"subject":"科学","text":"太阳系中体积最大的行星是？","options":["地球","木星","土星","火星"],"answer":1,"explanation":"木星是太阳系最大的行星，体积约为地球的 1300 倍。"},{"level":13,"subject":"数学","text":"计算：(-3) + 5 = ?","options":["-8","-2","2","8"],"answer":2,"explanation":"异号两数相加，取绝对值较大的符号，用较大绝对值减较小绝对值：5 - 3 = 2。"},{"level":13,"subject":"数学","text":"方程 2x + 3 = 7 的解是？","options":["x=1","x=2","x=3","x=4"],"answer":1,"explanation":"移项得 2x = 7 - 3 = 4，两边除以 2，得 x = 2。"},{"level":13,"subject":"语文","text":"‘学而时习之’的下一句是？","options":["不亦说乎","不亦乐乎","不亦君子乎","温故而知新"],"answer":0,"explanation":"出自《论语》：学而时习之，不亦说乎？‘说’通‘悦’，愉快的意思。"},{"level":13,"subject":"英语","text":"He ____ football now.","options":["play","plays","is playing","played"],"answer":2,"explanation":"now 表示此刻正在进行，用现在进行时：is playing。"},{"level":13,"subject":"历史","text":"秦朝统一六国的时间是？","options":["公元前221年","公元前202年","公元221年","公元前206年"],"answer":0,"explanation":"公元前 221 年秦王嬴政灭六国，建立秦朝，定都咸阳。"},{"level":13,"subject":"地理","text":"地球公转一周的时间约为？","options":["一天","一个月","一年","十年"],"answer":2,"explanation":"地球公转一周约 365 天，即一年，产生四季变化。"},{"level":13,"subject":"生物","text":"植物细胞具有而动物细胞没有的结构是？","options":["细胞壁","细胞膜","细胞质","细胞核"],"answer":0,"explanation":"植物细胞特有细胞壁、叶绿体和大液泡；细胞膜、细胞质、细胞核两者都有。"},{"level":13,"subject":"道法","text":"宪法规定，中华人民共和国的一切权力属于？","options":["人民","政府","法院","人大"],"answer":0,"explanation":"《宪法》第二条：中华人民共和国的一切权力属于人民。"},{"level":13,"subject":"英语","text":"‘早上好’的英文是？","options":["Good morning","Good night","Good afternoon","Goodbye"],"answer":0,"explanation":"Good morning = 早上好；Good night = 晚安；Good afternoon = 下午好。"},{"level":13,"subject":"数学","text":"|-5| = ?","options":["-5","0","5","25"],"answer":2,"explanation":"绝对值表示数轴上到原点的距离，总是非负数：|-5| = 5。"},{"level":13,"subject":"语文","text":"‘山重水复疑无路’的下一句是？","options":["柳暗花明又一村","一览众山小","长河落日圆","江清月近人"],"answer":0,"explanation":"出自陆游《游山西村》：山重水复疑无路，柳暗花明又一村。"},{"level":13,"subject":"数学","text":"合并同类项：3a + 2a = ?","options":["5a","6a","5a²","1"],"answer":0,"explanation":"3a + 2a = (3+2)a = 5a，只合并系数，字母部分不变。"},{"level":14,"subject":"数学","text":"解方程：2x - 1 = 5，x = ?","options":["2","3","4","6"],"answer":1,"explanation":"移项得 2x = 6，两边除以 2，得 x = 3。"},{"level":14,"subject":"语文","text":"‘万里赴戎机’的下一句是？","options":["关山度若飞","朔气传金柝","当户理红妆","对镜帖花黄"],"answer":0,"explanation":"出自《木兰诗》：万里赴戎机，关山度若飞。"},{"level":14,"subject":"英语","text":"She ____ TV now.","options":["watch","watches","is watching","watched"],"answer":2,"explanation":"now 提示现在进行时，主语 She 用 is watching。"},{"level":14,"subject":"历史","text":"隋朝完成统一是在哪一年？","options":["581年","589年","618年","628年"],"answer":1,"explanation":"589 年隋文帝灭陈，结束南北朝分裂局面，完成统一。"},{"level":14,"subject":"生物","text":"人体最大的消化腺是？","options":["胃腺","肝脏","胰腺","唾液腺"],"answer":1,"explanation":"肝脏是人体最大的消化腺，分泌胆汁帮助消化脂肪。"},{"level":14,"subject":"地理","text":"世界上面积最大的大洲是？","options":["非洲","亚洲","欧洲","北美洲"],"answer":1,"explanation":"亚洲面积约 4400 万平方千米，是世界上面积最大的大洲。"}]}
+{
+  "version": 1,
+  "updated": "2026-11-24",
+  "count": 78,
+  "questions": [
+    {
+      "level": 1,
+      "subject": "语文",
+      "text": "‘妈’的声母是？",
+      "options": [
+        "m",
+        "n",
+        "h",
+        "l"
+      ],
+      "answer": 0,
+      "explanation": "‘妈’读作 mā，声母是 m，韵母是 a。"
+    },
+    {
+      "level": 1,
+      "subject": "数学",
+      "text": "7 + 5 = ?",
+      "options": [
+        "11",
+        "12",
+        "13",
+        "14"
+      ],
+      "answer": 1,
+      "explanation": "7 + 5 = 12。可以用凑十法：7 + 3 = 10，再加剩下的 2，得 12。"
+    },
+    {
+      "level": 1,
+      "subject": "语文",
+      "text": "‘上’的反义词是？",
+      "options": [
+        "下",
+        "左",
+        "右",
+        "大"
+      ],
+      "answer": 0,
+      "explanation": "‘上’表示位置在高处，反义词是‘下’。"
+    },
+    {
+      "level": 1,
+      "subject": "道法",
+      "text": "绿灯亮时，行人可以怎样？",
+      "options": [
+        "停下来",
+        "通过人行横道",
+        "倒车",
+        "打电话"
+      ],
+      "answer": 1,
+      "explanation": "红灯停、绿灯行。绿灯亮时走人行横道过马路。"
+    },
+    {
+      "level": 1,
+      "subject": "数学",
+      "text": "1 元等于多少角？",
+      "options": [
+        "5",
+        "10",
+        "20",
+        "100"
+      ],
+      "answer": 1,
+      "explanation": "人民币换算：1 元 = 10 角，1 角 = 10 分。"
+    },
+    {
+      "level": 2,
+      "subject": "数学",
+      "text": "16 - 9 = ?",
+      "options": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "answer": 1,
+      "explanation": "16 - 9 = 7。破十法：16 - 6 = 10，10 - 3 = 7。"
+    },
+    {
+      "level": 2,
+      "subject": "语文",
+      "text": "‘大’的反义词是？",
+      "options": [
+        "小",
+        "多",
+        "高",
+        "长"
+      ],
+      "answer": 0,
+      "explanation": "‘大’与‘小’是一对反义词。"
+    },
+    {
+      "level": 2,
+      "subject": "数学",
+      "text": "13 - 6 = ?",
+      "options": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "answer": 1,
+      "explanation": "13 - 6 = 7，因为 7 + 6 = 13。"
+    },
+    {
+      "level": 2,
+      "subject": "语文",
+      "text": "白天天空中能看到什么？",
+      "options": [
+        "月亮",
+        "太阳",
+        "星星",
+        "北极光"
+      ],
+      "answer": 1,
+      "explanation": "白天太阳升起，能看到太阳；月亮和星星一般在夜晚出现。"
+    },
+    {
+      "level": 2,
+      "subject": "数学",
+      "text": "9 + 8 = ?",
+      "options": [
+        "16",
+        "17",
+        "18",
+        "19"
+      ],
+      "answer": 1,
+      "explanation": "9 + 8 = 17。凑十：9 + 1 = 10，再加 7 得 17。"
+    },
+    {
+      "level": 3,
+      "subject": "数学",
+      "text": "3 × 4 = ?",
+      "options": [
+        "7",
+        "12",
+        "16",
+        "21"
+      ],
+      "answer": 1,
+      "explanation": "3 × 4 表示 4 个 3 相加：3+3+3+3 = 12。"
+    },
+    {
+      "level": 3,
+      "subject": "语文",
+      "text": "‘春眠不觉晓’的下一句是？",
+      "options": [
+        "处处闻啼鸟",
+        "床前明月光",
+        "举头望明月",
+        "白日依山尽"
+      ],
+      "answer": 0,
+      "explanation": "出自孟浩然《春晓》：春眠不觉晓，处处闻啼鸟。"
+    },
+    {
+      "level": 3,
+      "subject": "科学",
+      "text": "水在标准大气压下多少摄氏度沸腾？",
+      "options": [
+        "50",
+        "80",
+        "100",
+        "120"
+      ],
+      "answer": 2,
+      "explanation": "标准大气压（101 kPa）下水的沸点是 100 ℃；高山上气压低，沸点会降低。"
+    },
+    {
+      "level": 3,
+      "subject": "英语",
+      "text": "apple 的中文意思是？",
+      "options": [
+        "苹果",
+        "香蕉",
+        "橘子",
+        "梨"
+      ],
+      "answer": 0,
+      "explanation": "apple = 苹果；banana = 香蕉；orange = 橘子；pear = 梨。"
+    },
+    {
+      "level": 3,
+      "subject": "数学",
+      "text": "5 × 6 = ?",
+      "options": [
+        "11",
+        "24",
+        "30",
+        "36"
+      ],
+      "answer": 2,
+      "explanation": "5 × 6 = 30，乘法口诀‘五六三十’。"
+    },
+    {
+      "level": 4,
+      "subject": "数学",
+      "text": "56 ÷ 7 = ?",
+      "options": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "answer": 2,
+      "explanation": "56 ÷ 7 = 8，因为 7 × 8 = 56。"
+    },
+    {
+      "level": 4,
+      "subject": "语文",
+      "text": "‘金’字的部首是？",
+      "options": [
+        "人",
+        "金",
+        "土",
+        "十"
+      ],
+      "answer": 1,
+      "explanation": "‘金’是独体字，部首就是‘金’本身。"
+    },
+    {
+      "level": 4,
+      "subject": "数学",
+      "text": "8 × 8 = ?",
+      "options": [
+        "16",
+        "56",
+        "64",
+        "72"
+      ],
+      "answer": 2,
+      "explanation": "8 × 8 = 64，乘法口诀‘八八六十四’。"
+    },
+    {
+      "level": 4,
+      "subject": "语文",
+      "text": "‘画’字共有几画？",
+      "options": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "answer": 2,
+      "explanation": "‘画’的笔顺：横、竖、横折、横、竖、撇、竖折、横，共 8 画。"
+    },
+    {
+      "level": 4,
+      "subject": "英语",
+      "text": "book 的中文意思是？",
+      "options": [
+        "书",
+        "笔",
+        "桌子",
+        "书包"
+      ],
+      "answer": 0,
+      "explanation": "book = 书；bag = 书包；pen = 笔。"
+    },
+    {
+      "level": 5,
+      "subject": "数学",
+      "text": "1000 - 456 = ?",
+      "options": [
+        "544",
+        "546",
+        "644",
+        "654"
+      ],
+      "answer": 0,
+      "explanation": "1000 - 456 = 544。验算：544 + 456 = 1000。"
+    },
+    {
+      "level": 5,
+      "subject": "语文",
+      "text": "‘亡羊补牢’的‘牢’指什么？",
+      "options": [
+        "羊圈",
+        "监狱",
+        "房子",
+        "绳子"
+      ],
+      "answer": 0,
+      "explanation": "‘牢’在这里指关羊的圈。成语比喻出了问题后及时补救。"
+    },
+    {
+      "level": 5,
+      "subject": "英语",
+      "text": "How are you? 的常用回答是？",
+      "options": [
+        "I'm fine, thank you.",
+        "My name is Tom.",
+        "It's red.",
+        "Yes, I do."
+      ],
+      "answer": 0,
+      "explanation": "How are you? 问‘你好吗’，常用 I'm fine, thank you. 回答。"
+    },
+    {
+      "level": 5,
+      "subject": "科学",
+      "text": "彩虹通常有几种颜色？",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "answer": 2,
+      "explanation": "彩虹有红、橙、黄、绿、蓝、靛、紫七种颜色。"
+    },
+    {
+      "level": 5,
+      "subject": "数学",
+      "text": "4 × 25 = ?",
+      "options": [
+        "50",
+        "75",
+        "100",
+        "125"
+      ],
+      "answer": 2,
+      "explanation": "4 × 25 = 100，这是常用简便运算组合。"
+    },
+    {
+      "level": 6,
+      "subject": "数学",
+      "text": "钟面上时针走一大格是几小时？",
+      "options": [
+        "1",
+        "5",
+        "12",
+        "60"
+      ],
+      "answer": 0,
+      "explanation": "钟面有 12 个大格，时针走一圈 12 小时，所以走一大格是 1 小时。"
+    },
+    {
+      "level": 6,
+      "subject": "语文",
+      "text": "‘独在异乡为异客’的下一句是？",
+      "options": [
+        "每逢佳节倍思亲",
+        "举头望明月",
+        "春江水暖鸭先知",
+        "黄河入海流"
+      ],
+      "answer": 0,
+      "explanation": "出自王维《九月九日忆山东兄弟》：独在异乡为异客，每逢佳节倍思亲。"
+    },
+    {
+      "level": 6,
+      "subject": "科学",
+      "text": "影子的形成说明光具有什么性质？",
+      "options": [
+        "光会拐弯",
+        "光沿直线传播",
+        "光会变色",
+        "光有重量"
+      ],
+      "answer": 1,
+      "explanation": "影子是光沿直线传播时被不透明物体挡住形成的。"
+    },
+    {
+      "level": 6,
+      "subject": "数学",
+      "text": "360 ÷ 9 = ?",
+      "options": [
+        "30",
+        "40",
+        "50",
+        "60"
+      ],
+      "answer": 1,
+      "explanation": "360 ÷ 9 = 40，因为 9 × 40 = 360。"
+    },
+    {
+      "level": 6,
+      "subject": "英语",
+      "text": "pen 的中文意思是？",
+      "options": [
+        "钢笔",
+        "尺子",
+        "橡皮",
+        "书本"
+      ],
+      "answer": 0,
+      "explanation": "pen = 钢笔；ruler = 尺子；eraser = 橡皮。"
+    },
+    {
+      "level": 7,
+      "subject": "数学",
+      "text": "25 × 4 = ?",
+      "options": [
+        "50",
+        "75",
+        "100",
+        "125"
+      ],
+      "answer": 2,
+      "explanation": "25 × 4 = 100，常用简便运算：25 × 4 = 100，125 × 8 = 1000。"
+    },
+    {
+      "level": 7,
+      "subject": "语文",
+      "text": "‘欲穷千里目’的下一句是？",
+      "options": [
+        "更上一层楼",
+        "一览众山小",
+        "黄河入海流",
+        "春江水暖鸭先知"
+      ],
+      "answer": 0,
+      "explanation": "出自王之涣《登鹳雀楼》：欲穷千里目，更上一层楼。"
+    },
+    {
+      "level": 7,
+      "subject": "科学",
+      "text": "植物光合作用主要吸收哪种气体？",
+      "options": [
+        "氧气",
+        "二氧化碳",
+        "氮气",
+        "氢气"
+      ],
+      "answer": 1,
+      "explanation": "光合作用吸收二氧化碳和水，释放氧气，合成有机物。"
+    },
+    {
+      "level": 7,
+      "subject": "数学",
+      "text": "125 × 8 = ?",
+      "options": [
+        "500",
+        "800",
+        "1000",
+        "1250"
+      ],
+      "answer": 2,
+      "explanation": "125 × 8 = 1000，是常用的简便运算组合。"
+    },
+    {
+      "level": 7,
+      "subject": "英语",
+      "text": "cat 的中文意思是？",
+      "options": [
+        "狗",
+        "猫",
+        "鸟",
+        "鱼"
+      ],
+      "answer": 1,
+      "explanation": "cat = 猫；dog = 狗；bird = 鸟；fish = 鱼。"
+    },
+    {
+      "level": 8,
+      "subject": "数学",
+      "text": "1 千米等于多少米？",
+      "options": [
+        "100",
+        "500",
+        "1000",
+        "10000"
+      ],
+      "answer": 2,
+      "explanation": "1 千米（km）= 1000 米（m）。"
+    },
+    {
+      "level": 8,
+      "subject": "英语",
+      "text": "What's your name? 的回答是？",
+      "options": [
+        "I'm ten.",
+        "My name is Li Hua.",
+        "I'm fine.",
+        "It's a book."
+      ],
+      "answer": 1,
+      "explanation": "What's your name? 问名字，回答 My name is... 或 I'm...。"
+    },
+    {
+      "level": 8,
+      "subject": "数学",
+      "text": "0.5 + 0.3 = ?",
+      "options": [
+        "0.2",
+        "0.8",
+        "8",
+        "0.08"
+      ],
+      "answer": 1,
+      "explanation": "小数点对齐相加：0.5 + 0.3 = 0.8。"
+    },
+    {
+      "level": 8,
+      "subject": "语文",
+      "text": "‘四面楚歌’这个成语与哪位历史人物有关？",
+      "options": [
+        "项羽",
+        "刘邦",
+        "曹操",
+        "诸葛亮"
+      ],
+      "answer": 0,
+      "explanation": "楚汉相争时项羽被围垓下，夜闻四面汉军唱楚歌，以为楚地尽失。"
+    },
+    {
+      "level": 8,
+      "subject": "科学",
+      "text": "一天中气温最高一般出现在什么时候？",
+      "options": [
+        "日出时",
+        "正午 12 点",
+        "午后 2 点左右",
+        "午夜"
+      ],
+      "answer": 2,
+      "explanation": "地面吸收热量需要时间，气温最高值通常出现在午后 2 点左右。"
+    },
+    {
+      "level": 9,
+      "subject": "数学",
+      "text": "1/2 + 1/4 = ?",
+      "options": [
+        "1/6",
+        "2/6",
+        "3/4",
+        "2/3"
+      ],
+      "answer": 2,
+      "explanation": "通分：1/2 = 2/4，2/4 + 1/4 = 3/4。分数相加要先通分。"
+    },
+    {
+      "level": 9,
+      "subject": "语文",
+      "text": "‘扁舟’的‘扁’应读什么？",
+      "options": [
+        "piān",
+        "biǎn",
+        "biān",
+        "pián"
+      ],
+      "answer": 0,
+      "explanation": "‘扁舟’指小船，‘扁’在这里读 piān。"
+    },
+    {
+      "level": 9,
+      "subject": "英语",
+      "text": "I ____ to school every day.",
+      "options": [
+        "go",
+        "goes",
+        "going",
+        "went"
+      ],
+      "answer": 0,
+      "explanation": "主语 I 是第一人称，一般现在时用动词原形 go。"
+    },
+    {
+      "level": 9,
+      "subject": "数学",
+      "text": "3.6 ÷ 0.6 = ?",
+      "options": [
+        "0.6",
+        "6",
+        "60",
+        "0.06"
+      ],
+      "answer": 1,
+      "explanation": "被除数和除数同时扩大 10 倍：36 ÷ 6 = 6。"
+    },
+    {
+      "level": 9,
+      "subject": "语文",
+      "text": "‘上善若水’出自哪部典籍？",
+      "options": [
+        "论语",
+        "道德经",
+        "孟子",
+        "庄子"
+      ],
+      "answer": 1,
+      "explanation": "‘上善若水，水善利万物而不争’出自老子《道德经》。"
+    },
+    {
+      "level": 10,
+      "subject": "科学",
+      "text": "人体最大的器官是？",
+      "options": [
+        "心脏",
+        "肝脏",
+        "皮肤",
+        "肺"
+      ],
+      "answer": 2,
+      "explanation": "皮肤覆盖全身，是人体面积最大、重量最重的器官。"
+    },
+    {
+      "level": 10,
+      "subject": "数学",
+      "text": "0.25 化成分数是？",
+      "options": [
+        "1/2",
+        "1/4",
+        "1/5",
+        "2/5"
+      ],
+      "answer": 1,
+      "explanation": "0.25 = 25/100 = 1/4。"
+    },
+    {
+      "level": 10,
+      "subject": "道法",
+      "text": "未成年人是指未满多少周岁的公民？",
+      "options": [
+        "16",
+        "18",
+        "20",
+        "21"
+      ],
+      "answer": 1,
+      "explanation": "《未成年人保护法》规定：未成年人是指未满 18 周岁的公民。"
+    },
+    {
+      "level": 10,
+      "subject": "语文",
+      "text": "‘草船借箭’出自哪部名著？",
+      "options": [
+        "西游记",
+        "三国演义",
+        "水浒传",
+        "红楼梦"
+      ],
+      "answer": 1,
+      "explanation": "草船借箭是《三国演义》中诸葛亮的故事。"
+    },
+    {
+      "level": 10,
+      "subject": "数学",
+      "text": "2/3 + 1/3 = ?",
+      "options": [
+        "1/3",
+        "2/3",
+        "1",
+        "3/6"
+      ],
+      "answer": 2,
+      "explanation": "同分母分数相加，分母不变分子相加：2/3 + 1/3 = 3/3 = 1。"
+    },
+    {
+      "level": 11,
+      "subject": "数学",
+      "text": "50 的 20% 是多少？",
+      "options": [
+        "5",
+        "10",
+        "15",
+        "20"
+      ],
+      "answer": 1,
+      "explanation": "50 × 20% = 50 × 0.2 = 10。"
+    },
+    {
+      "level": 11,
+      "subject": "语文",
+      "text": "‘但存方寸地，留与子孙耕’主要强调？",
+      "options": [
+        "珍惜土地",
+        "多建房屋",
+        "多修道路",
+        "节约用水"
+      ],
+      "answer": 0,
+      "explanation": "这句诗强调保护耕地、珍惜土地资源，留给后代耕种。"
+    },
+    {
+      "level": 11,
+      "subject": "英语",
+      "text": "There ____ some milk in the glass.",
+      "options": [
+        "is",
+        "are",
+        "am",
+        "be"
+      ],
+      "answer": 0,
+      "explanation": "milk 是不可数名词，there be 句型中用 is。"
+    },
+    {
+      "level": 11,
+      "subject": "数学",
+      "text": "圆的周长公式是？",
+      "options": [
+        "πr",
+        "2πr",
+        "πr²",
+        "2r"
+      ],
+      "answer": 1,
+      "explanation": "圆的周长 C = 2πr = πd；πr² 是圆的面积公式。"
+    },
+    {
+      "level": 11,
+      "subject": "科学",
+      "text": "地球自转一周约需多久？",
+      "options": [
+        "12 小时",
+        "24 小时",
+        "30 天",
+        "365 天"
+      ],
+      "answer": 1,
+      "explanation": "地球自转一周约 24 小时，产生昼夜交替；公转一周约 365 天。"
+    },
+    {
+      "level": 12,
+      "subject": "数学",
+      "text": "三角形的内角和是多少？",
+      "options": [
+        "90°",
+        "180°",
+        "270°",
+        "360°"
+      ],
+      "answer": 1,
+      "explanation": "任意三角形的三个内角之和都是 180°。"
+    },
+    {
+      "level": 12,
+      "subject": "英语",
+      "text": "‘图书馆’的英文是？",
+      "options": [
+        "school",
+        "library",
+        "hospital",
+        "park"
+      ],
+      "answer": 1,
+      "explanation": "library = 图书馆；school = 学校；hospital = 医院；park = 公园。"
+    },
+    {
+      "level": 12,
+      "subject": "数学",
+      "text": "比例尺 1:1000 表示图上 1 cm 相当于实际多少米？",
+      "options": [
+        "1 米",
+        "10 米",
+        "100 米",
+        "1000 米"
+      ],
+      "answer": 1,
+      "explanation": "图上 1 cm × 1000 = 1000 cm = 10 米。"
+    },
+    {
+      "level": 12,
+      "subject": "语文",
+      "text": "‘少壮不努力’的下一句是？",
+      "options": [
+        "老大徒伤悲",
+        "长歌行",
+        "黄河入海流",
+        "更上一层楼"
+      ],
+      "answer": 0,
+      "explanation": "出自汉乐府《长歌行》：少壮不努力，老大徒伤悲。"
+    },
+    {
+      "level": 12,
+      "subject": "科学",
+      "text": "太阳系中体积最大的行星是？",
+      "options": [
+        "地球",
+        "木星",
+        "土星",
+        "火星"
+      ],
+      "answer": 1,
+      "explanation": "木星是太阳系最大的行星，体积约为地球的 1300 倍。"
+    },
+    {
+      "level": 13,
+      "subject": "数学",
+      "text": "计算：(-3) + 5 = ?",
+      "options": [
+        "-8",
+        "-2",
+        "2",
+        "8"
+      ],
+      "answer": 2,
+      "explanation": "异号两数相加，取绝对值较大的符号，用较大绝对值减较小绝对值：5 - 3 = 2。"
+    },
+    {
+      "level": 13,
+      "subject": "数学",
+      "text": "方程 2x + 3 = 7 的解是？",
+      "options": [
+        "x=1",
+        "x=2",
+        "x=3",
+        "x=4"
+      ],
+      "answer": 1,
+      "explanation": "移项得 2x = 7 - 3 = 4，两边除以 2，得 x = 2。"
+    },
+    {
+      "level": 13,
+      "subject": "语文",
+      "text": "‘学而时习之’的下一句是？",
+      "options": [
+        "不亦说乎",
+        "不亦乐乎",
+        "不亦君子乎",
+        "温故而知新"
+      ],
+      "answer": 0,
+      "explanation": "出自《论语》：学而时习之，不亦说乎？‘说’通‘悦’，愉快的意思。"
+    },
+    {
+      "level": 13,
+      "subject": "英语",
+      "text": "He ____ football now.",
+      "options": [
+        "play",
+        "plays",
+        "is playing",
+        "played"
+      ],
+      "answer": 2,
+      "explanation": "now 表示此刻正在进行，用现在进行时：is playing。"
+    },
+    {
+      "level": 13,
+      "subject": "历史",
+      "text": "秦朝统一六国的时间是？",
+      "options": [
+        "公元前221年",
+        "公元前202年",
+        "公元221年",
+        "公元前206年"
+      ],
+      "answer": 0,
+      "explanation": "公元前 221 年秦王嬴政灭六国，建立秦朝，定都咸阳。"
+    },
+    {
+      "level": 13,
+      "subject": "地理",
+      "text": "地球公转一周的时间约为？",
+      "options": [
+        "一天",
+        "一个月",
+        "一年",
+        "十年"
+      ],
+      "answer": 2,
+      "explanation": "地球公转一周约 365 天，即一年，产生四季变化。"
+    },
+    {
+      "level": 13,
+      "subject": "生物",
+      "text": "植物细胞具有而动物细胞没有的结构是？",
+      "options": [
+        "细胞壁",
+        "细胞膜",
+        "细胞质",
+        "细胞核"
+      ],
+      "answer": 0,
+      "explanation": "植物细胞特有细胞壁、叶绿体和大液泡；细胞膜、细胞质、细胞核两者都有。"
+    },
+    {
+      "level": 13,
+      "subject": "道法",
+      "text": "宪法规定，中华人民共和国的一切权力属于？",
+      "options": [
+        "人民",
+        "政府",
+        "法院",
+        "人大"
+      ],
+      "answer": 0,
+      "explanation": "《宪法》第二条：中华人民共和国的一切权力属于人民。"
+    },
+    {
+      "level": 13,
+      "subject": "英语",
+      "text": "‘早上好’的英文是？",
+      "options": [
+        "Good morning",
+        "Good night",
+        "Good afternoon",
+        "Goodbye"
+      ],
+      "answer": 0,
+      "explanation": "Good morning = 早上好；Good night = 晚安；Good afternoon = 下午好。"
+    },
+    {
+      "level": 13,
+      "subject": "数学",
+      "text": "|-5| = ?",
+      "options": [
+        "-5",
+        "0",
+        "5",
+        "25"
+      ],
+      "answer": 2,
+      "explanation": "绝对值表示数轴上到原点的距离，总是非负数：|-5| = 5。"
+    },
+    {
+      "level": 13,
+      "subject": "语文",
+      "text": "‘山重水复疑无路’的下一句是？",
+      "options": [
+        "柳暗花明又一村",
+        "一览众山小",
+        "长河落日圆",
+        "江清月近人"
+      ],
+      "answer": 0,
+      "explanation": "出自陆游《游山西村》：山重水复疑无路，柳暗花明又一村。"
+    },
+    {
+      "level": 13,
+      "subject": "数学",
+      "text": "合并同类项：3a + 2a = ?",
+      "options": [
+        "5a",
+        "6a",
+        "5a²",
+        "1"
+      ],
+      "answer": 0,
+      "explanation": "3a + 2a = (3+2)a = 5a，只合并系数，字母部分不变。"
+    },
+    {
+      "level": 14,
+      "subject": "数学",
+      "text": "解方程：2x - 1 = 5，x = ?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "6"
+      ],
+      "answer": 1,
+      "explanation": "移项得 2x = 6，两边除以 2，得 x = 3。"
+    },
+    {
+      "level": 14,
+      "subject": "语文",
+      "text": "‘万里赴戎机’的下一句是？",
+      "options": [
+        "关山度若飞",
+        "朔气传金柝",
+        "当户理红妆",
+        "对镜帖花黄"
+      ],
+      "answer": 0,
+      "explanation": "出自《木兰诗》：万里赴戎机，关山度若飞。"
+    },
+    {
+      "level": 14,
+      "subject": "英语",
+      "text": "She ____ TV now.",
+      "options": [
+        "watch",
+        "watches",
+        "is watching",
+        "watched"
+      ],
+      "answer": 2,
+      "explanation": "now 提示现在进行时，主语 She 用 is watching。"
+    },
+    {
+      "level": 14,
+      "subject": "历史",
+      "text": "隋朝完成统一是在哪一年？",
+      "options": [
+        "581年",
+        "589年",
+        "618年",
+        "628年"
+      ],
+      "answer": 1,
+      "explanation": "589 年隋文帝灭陈，结束南北朝分裂局面，完成统一。"
+    },
+    {
+      "level": 14,
+      "subject": "生物",
+      "text": "人体最大的消化腺是？",
+      "options": [
+        "胃腺",
+        "肝脏",
+        "胰腺",
+        "唾液腺"
+      ],
+      "answer": 1,
+      "explanation": "肝脏是人体最大的消化腺，分泌胆汁帮助消化脂肪。"
+    },
+    {
+      "level": 14,
+      "subject": "地理",
+      "text": "世界上面积最大的大洲是？",
+      "options": [
+        "非洲",
+        "亚洲",
+        "欧洲",
+        "北美洲"
+      ],
+      "answer": 1,
+      "explanation": "亚洲面积约 4400 万平方千米，是世界上面积最大的大洲。"
+    }
+  ]
+}
