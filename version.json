@@ -1,6 +1,6 @@
 {
-  "versionCode": 14,
-  "versionName": "1.11",
-  "changelog": "题库重建为 360 题，覆盖三年级上册到初一下册、含科学道法史地生；解析改成“口诀+易错点”的大白话讲法；抽题按学期加权，初一不再抽到三年级简单题；修掉屏幕固定确认框连弹两次的问题",
+  "versionCode": 15,
+  "versionName": "1.12",
+  "changelog": "题库 359 题（三上~初一下全科，含科学道法史地生），解析统一成“口诀+易错点”的大白话讲法；抽题按学期加权，初一孩子主要抽初一上、六下、六上，不再被三年级简单题稀释；屏幕固定确认框只弹一次；修掉题目页年级标签重复显示",
   "apkUrl": "https://cdn.jsdelivr.net/gh/vvvvvfelix/quizlock-bank@main/quizlock-debug.apk"
 }
