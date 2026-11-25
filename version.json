@@ -1,6 +1,6 @@
 {
-  "versionCode": 16,
-  "versionName": "1.13",
-  "changelog": "答错或超时都不再自动收起，题目一直锁定到答对为止（只剩一行“答对解锁”提示）；设备所有者生效后屏幕固定不再弹任何确认框；主界面精简：去掉忽略电池优化、复制命令、adb 说明等开发者项，桌面图标隐藏/恢复合并成一个按钮",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/vvvvvfelix/quizlock-bank@main/quizlock-debug.apk"
+  "versionCode": 18,
+  "versionName": "1.15",
+  "changelog": "题库与软件更新改为优先用 GitHub raw（不走缓存），jsDelivr 只作备用，保证每次都能拿到最新题库；答错或超时都不收起，一直锁定到答对；屏幕固定无确认框；主界面精简",
+  "apkUrl": "https://raw.githubusercontent.com/vvvvvfelix/quizlock-bank/main/quizlock-debug.apk"
 }
