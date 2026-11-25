@@ -1,6 +1,6 @@
 {
-  "versionCode": 12,
-  "versionName": "1.9",
-  "changelog": "修复 stopped 死锁：新增可切换的桌面入口（activity-alias），被强行停止后可点桌面图标自愈并自动续排闹钟；隐藏/恢复桌面图标按钮改为真实生效（原为空实现）；状态页新增 stopped 自救提示",
+  "versionCode": 14,
+  "versionName": "1.11",
+  "changelog": "题库重建为 360 题，覆盖三年级上册到初一下册、含科学道法史地生；解析改成“口诀+易错点”的大白话讲法；抽题按学期加权，初一不再抽到三年级简单题；修掉屏幕固定确认框连弹两次的问题",
   "apkUrl": "https://cdn.jsdelivr.net/gh/vvvvvfelix/quizlock-bank@main/quizlock-debug.apk"
 }
